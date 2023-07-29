@@ -51,7 +51,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 | 3. | [Terraform plan in Devops GUI](https://www.youtube.com/watch?v=pGmy-IkytCQ)  | Watch the video presented in __Azure Back to School - 2022__ to learn more. |
 | 4. | [Terraform plan in Devops GUI using templates](https://dev.to/arindam0310018/terraform-plan-in-devops-gui-using-templates-5chp) | Read the blog post to learn more. |
 | 5. | [Break Terraform state lease using Azure DevOps](https://dev.to/arindam0310018/break-terraform-state-lease-using-azure-devops-2fnj)  | Read the blog post to learn more. |
-| 6. | [Az Managed Grafana with Terraform Azapi & Devops](https://dev.to/arindam0310018/az-managed-grafana-with-terraform-azapi-devops-452g)  | Read the blog post to learn more. |
+| 6. | [Az Managed Grafana with Terraform Azapi & Devops](https://www.youtube.com/watch?v=V8b4hg-pZ7s)  | Watch the video presented in __Journey to the Cloud - 2022__ to learn more. |
 | 7. | [Count and if else with Terraform & Devops](https://dev.to/arindam0310018/count-and-if-else-with-terraform-devops-3bhf)  | Read the blog post to learn more. |
 
 
