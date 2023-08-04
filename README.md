@@ -39,6 +39,11 @@ Greetings to my fellow Technology Advocates and Specialists.
 | --------- |
 | ![image](https://github.com/arindam0310018/02-Aug-2023-Terraform-Usecases__Gira-Online-Speakers-LATAM/assets/29681063/a3c798a2-db0c-4d06-97fd-29d19eeba0d4) |
 
+| __VIRTUAL SESSION:-__ |
+| --------- |
+| I __RECORDED__ my Presentation for __GIRA ONLINE SPEAKER - LATAM 2023__ Forum/Platform |
+| Duration of My Demo = __48 Mins 03 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2E20doniajk/0.jpg)](https://www.youtube.com/watch?v=2E20doniajk) |
 
 | __DEMO TOPICS:-__ |
 | --------- |
